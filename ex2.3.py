@@ -1,7 +1,6 @@
 import threading
 import requests
 
-# Lista 15 wybranych krajów
 countries = ["Poland", "Germany", "Italy", "France", "Spain", "Switzerland", "Austria", "Belgium",
              "Canada", "India", "China", "San Marino", "Japan", "Australia", "United Kingdom"]
 
